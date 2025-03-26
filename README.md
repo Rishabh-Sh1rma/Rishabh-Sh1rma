@@ -1,7 +1,9 @@
 # Hi there! I'm Rishabh Sharma 👋
 
 ## About Me
-I'm a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+Software Developer with expertise in building and maintaining high-performance Full-Stack web applications. Demonstrated ability
+to ensure seamless integration with backend systems, optimize application performance, and enhance user experience through implementation
+of responsive design principles. Proficient in MERN Stack, RESTful APIs, and agile methodologies.
 
 ## 🛠 Tech Stack
 
