@@ -33,8 +33,14 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner. I love buildi
 - *Email*: rishabhar1974@gmail.com
 
 ## 🌐 Connect with me
-https://www.linkedin.com/in/rishabh-sharma25/
-https://marvelous-presentations-488852.framer.app/
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishabh-sharma25/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://marvelous-presentations-488852.framer.app/">
+    <img src="https://img.shields.io/badge/My Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 Passionate about innovation and continuous learning
