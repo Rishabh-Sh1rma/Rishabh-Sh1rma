@@ -39,7 +39,7 @@ of responsive design principles. Proficient in MERN Stack, RESTful APIs, and agi
   <a href="https://www.linkedin.com/in/rishabh-sharma25/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://marvelous-presentations-488852.framer.app/">
+  <a href="https://worthyjobs-tech.vercel.app/Rishabh%20Sharma?id=1Icgw0BSzTxU3Ruv1eAhu-TuNXyT_otTf">
     <img src="https://img.shields.io/badge/My Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
