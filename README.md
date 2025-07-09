@@ -1,48 +1,75 @@
 # Hi there! I'm Rishabh Sharma 👋
 
-## About Me
-Software Developer with expertise in building and maintaining high-performance Full-Stack web applications. Demonstrated ability
-to ensure seamless integration with backend systems, optimize application performance, and enhance user experience through implementation
-of responsive design principles. Proficient in MERN Stack, RESTful APIs, and agile methodologies.
+## 🚀 About Me
+I'm a final-year B.Tech Computer Science student (2025) passionate about solving real-world problems through scalable full-stack and AI-powered applications. I enjoy turning ideas into working products, writing clean and efficient code, and constantly improving my craft through learning and collaboration.
 
-## 🛠 Tech Stack
+- 💻 140+ LeetCode Questions | HackerRank (⭐5 in Problem Solving)
+- ✅ Recently cleared **TCS National Qualifier Test (TCS NQT)**
+- 🧑‍🏫 Teaching Assistant (DSA) for juniors at JKLU
+- 🧠 Love working with **React, Node.js, FastAPI, Python**, and building things people actually use
 
-### 📝 Programming & Core Concepts
-<p align="left">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Web Development
-<p align="left">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+### 🌐 Web & AI Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-### ☁ Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-## 📬 Contact Me
-- *Email*: rishabhar1974@gmail.com
-
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishabh-sharma25/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://worthyjobs-tech.vercel.app/Rishabh%20Sharma?id=1Icgw0BSzTxU3Ruv1eAhu-TuNXyT_otTf">
-    <img src="https://img.shields.io/badge/My Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
-Passionate about innovation and continuous learning
+
+## 🔥 Latest Projects
+
+📊 **[EZTax - AI-Powered Tax Automation Tool](https://ez-tax-tax-automation-tool.vercel.app/)**  
+*React.js, Supabase, SQL*  
+[View GitHub](https://github.com/Rishabh-Sh1rma/EZTax---Tax-Automation-Tool)
+
+💬 **[Channelize - Real-time Chat App](https://chat-application-6g1x.onrender.com/)**  
+*Next.js, React, Prisma, Socket.io*  
+[View GitHub](https://github.com/Rishabh-Sh1rma/chat-application)
+
+🖼️ **[Memeize - AI Meme Generator](https://memeize-meme-generator.vercel.app/)**  
+*React.js, HTML, CSS*  
+[View GitHub](https://github.com/Rishabh-Sh1rma/MEMEIZE--MEME-GENERATOR)
+
+---
+
+## 🧠 Competitive Programming
+- 📘 **LeetCode**: [140+ Questions Solved](https://leetcode.com/u/RishabhSh1rma/)
+- 🟢 **HackerRank**: 5⭐ Problem Solving Badge
+
+---
+
+## 📬 Let's Connect!
+- 📧 Email: rishabhar1974@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/rishabh-sharma25](https://www.linkedin.com/in/rishabh-sharma25/)
+- 🌐 Portfolio: [worthyjobs-tech.vercel.app](https://tinyurl.com/4nz6349r)
+- 💻 GitHub: [github.com/Rishabh-Sh1rma](https://github.com/Rishabh-Sh1rma)
+
+---
+
+💡 *Passionate about innovation, obsessed with clean and efficient code, and always building something new.*  
+_“The best way to learn is to build.”_
+
+---
+
